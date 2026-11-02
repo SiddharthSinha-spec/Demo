@@ -1,0 +1,2 @@
+This is my Git module 2 assignment. 
+I am practising branches and commits.
